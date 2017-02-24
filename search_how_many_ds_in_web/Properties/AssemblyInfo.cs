@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // 特性集控制。更改这些特性值可修改
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("search_how_many_ds_in_web")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("定制开发搜索一个应用有多少数据流")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Hewlett-Packard Company")]
+[assembly: AssemblyCompany("IOT ChinaMobile")]
 [assembly: AssemblyProduct("search_how_many_ds_in_web")]
-[assembly: AssemblyCopyright("Copyright © Hewlett-Packard Company 2017")]
+[assembly: AssemblyCopyright("Copyright © M.Lee 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

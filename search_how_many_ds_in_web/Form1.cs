@@ -281,6 +281,7 @@ namespace search_how_many_ds_in_web
             this.Invoke((MethodInvoker)delegate()
             {
                 start.Enabled = true;
+                MessageBox.Show("完成!");
             });
         }
 
